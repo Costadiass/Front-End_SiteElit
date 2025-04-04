@@ -104,6 +104,9 @@ footer{
     font-size: 0.7rem;
     padding: 1rem;
 }
+.gnf:hover+.gn{
+	transform:scale(1.5);
+}
 .gnf{
     color: dodgerblue;
 }
